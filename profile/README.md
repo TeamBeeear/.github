@@ -108,7 +108,7 @@
 
 ## 👥 팀 구성
 
-- 프론트 : <a href="https://github.com/drimh">신승혜</a>, <a href="https://github.com/MinseoKangQ">강민서</a>, <a href="https://github.com/sycuuui">이서연</a>, <a href="https://github.com/">임수진</a>
+- 프론트 : <a href="https://github.com/drimh">신승혜</a>, <a href="https://github.com/MinseoKangQ">강민서</a>, <a href="https://github.com/sycuuui">이서연</a>, <a href="https://github.com/suzinlim">임수진</a>
 - 백 : <a href="https://github.com/MinseoKangQ">강민서</a>
 
 <br><br>
